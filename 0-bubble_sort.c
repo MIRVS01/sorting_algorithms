@@ -19,7 +19,7 @@ void swap_ints(int *a, int *b)
  * @array: An array of integers to sort.
  * @size: The size of the array.
  *
- * Description: Prints the array after each swap.
+ * Description: Prints the array after each swap correctly.
  */
 void bubble_sort(int *array, size_t size)
 {
@@ -29,6 +29,7 @@ void bubble_sort(int *array, size_t size)
 	if (array == NULL || size < 2)
 		return;
 
+	i = 0;
 	while (bubbly == false)
 	{
 		bubbly = true;
