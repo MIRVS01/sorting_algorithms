@@ -30,4 +30,4 @@ Heap sort is a comparison based sorting algorithm that works by creating a heap 
 
 
 
-Sorting algorithms can be used to solve many different problems, from sorting an array of numbers to sorting a list of words. Choosing the right sorting algorithm for a given problem depends on the size of the data set and the desired time complexity.
+Sorting algorithms can be used to solve many different problem, from sorting an array of numbers to sorting a list of words. Choosing the right sorting algorithm for a given problem depends on the size of the data set and the desired time complexity.
